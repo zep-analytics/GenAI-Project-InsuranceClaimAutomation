@@ -1,0 +1,12 @@
+langchain_community
+easyocr
+pdf2image
+numpy
+pdf2image
+matplotlib
+langchain_openai
+python-dotenv
+PyPDF2
+flask
+opencv-python
+tiktoken
